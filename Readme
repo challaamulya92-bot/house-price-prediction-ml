@@ -1,0 +1,28 @@
+# House Price Prediction
+
+This project predicts house prices using Machine Learning techniques.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Models Used
+- Linear Regression
+- Random Forest Regressor
+
+## Features
+- Data Cleaning
+- Missing Value Handling
+- Categorical Encoding
+- Model Training
+- Model Evaluation
+- Data Visualization
+
+## Evaluation Metrics
+- MAE
+- RMSE
+- R² Score
